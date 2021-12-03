@@ -5,12 +5,12 @@
     * D3 will be used to create the profile line graph
 
 ## Functionality & MVPs
-    * ##Friday Afternoon & Weekend
-        *be able to access API from VS Code
-        *retrieve topographic map for a location
-        *get topographic map on browser
-        *retrieve elevation data for a location
-        *retrieve elevation data for points from path that user drew
+    ###Friday Afternoon & Weekend
+        * be able to access API from VS Code
+        * retrieve topographic map for a location
+        * get topographic map on browser
+        * retrieve elevation data for a location
+        * retrieve elevation data for points from path that user drew
 
 
 ## :small_blue_diamond:Wireframes:small_blue_diamond:
