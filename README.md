@@ -14,7 +14,7 @@ In this app, the user will be able to draw a straight line anywhere on the topog
 * retrieve the topographic map for a given location
 * have the user draw a straight path on the map
 * have an icon trace the path
-* render the profile at the same speed at which the icon traverses the map
+* draw an elevation graph
 
 ### In addition, this project will include:
 * instructions pop up for each action: select a location, draw a path, profile complete
