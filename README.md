@@ -1,8 +1,10 @@
 # README
 
 ## :small_blue_diamond:Background:small_blue_diamond:
-    * Google Earth Engine will be used to retrieve elevation data and render topographic map
-    * D3 will be used to create the profile line graph
+* Google Earth Engine will be used to retrieve elevation data and render topographic map
+* D3 will be used to create the profile line graph
+
+
 
 ## :small_blue_diamond:Functionality & MVPs:small_blue_diamond:
 ### Friday Afternoon & Weekend
@@ -24,9 +26,19 @@
     * for example, could I have a demo preset that auto draws like a gif?
 * start basic styling
 
+### Wednesday
+* stylize webpage
+* focus mainly on content placement (flexing, etc.)
+
+### Thursday
+* figure out how to deploy webpage
+* superficial styling if extra time (images, color scheme)
+
+
 
 ## :small_blue_diamond:Wireframes:small_blue_diamond:
-    
+![GitHub Logo](./assets/1opening_with_alert.png)
+
 
 ## :small_blue_diamond:Technologies, Libraries, APIs:small_blue_diamond:
 
