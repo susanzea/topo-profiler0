@@ -1,6 +1,6 @@
 # README
 
-## **Background**
+## :small_blue_diamond:Background:small_blue_diamond:
 
 
 ## Functionality & MVPs
