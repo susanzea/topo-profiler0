@@ -37,7 +37,7 @@
 
 
 ## :small_blue_diamond:Wireframes:small_blue_diamond:
-![GitHub Logo](./assets/1opening_with_alert.png)
+![Opening with Alert](/assets/1opening_with_alert.png)
 
 
 ## :small_blue_diamond:Technologies, Libraries, APIs:small_blue_diamond:
