@@ -1,18 +1,18 @@
 # README
 
-##**Background**
+## **Background**
 
 
-##Functionality & MVPs
+## Functionality & MVPs
 
 
-##Wireframes
+## Wireframes
 
 
-##Technologies, Libraries, APIs
+## Technologies, Libraries, APIs
 
 
-##Implementation Timeline
+## Implementation Timeline
 
 
 
