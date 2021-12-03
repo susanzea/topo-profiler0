@@ -4,8 +4,8 @@
     * Google Earth Engine will be used to retrieve elevation data and render topographic map
     * D3 will be used to create the profile line graph
 
-## Functionality & MVPs
-    ###Friday Afternoon & Weekend
+## :small_blue_diamond:Functionality & MVPs:small_blue_diamond:
+    ### Friday Afternoon & Weekend
         * be able to access API from VS Code
         * retrieve topographic map for a location
         * get topographic map on browser
